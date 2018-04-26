@@ -5,15 +5,13 @@
 
 **System Information**
 
-	manufacturer		PINNACLEMICRO
-	product			P65_P67RGRERA
-    os                      Windows 10 Professional
+	vendor                  PINNACLEMICRO
+	model                   P65_P67RGRERA
+    chassis type		Notebook
+**Software**
 
-**System Enclosure**
-
-	manufacturer		PINNACLEMICRO
-	chassis type		Notebook
-
+    Windows Version         Microsoft Windows 10 (10.0) Professional 64-bit
+    DirectX Version         12.0
 **Processor**
 
 	manufacturer		Intel(R) Corporation
@@ -22,19 +20,12 @@
     number of cores	        4 (max 4)
 	number of threads       8 (max 8)
 	codename                Skylake
-
 **BIOS**
 
 	vendor			American Megatrends Inc.
 	version			1.05.15
 	date			04/27/2016
 	ROM size		5120 KB
-
-**Baseboard**	
-
-	vendor			PINNACLEMICRO
-	model			P65_P67RGRERA
-
 **Memory**
 
 	location		Motherboard
@@ -45,7 +36,6 @@
     memory Size		24 GBytes
     channels		Dual
     memory Frequency	1064.4 MHz (1:16)
-
 **Graphics**
 
 	Name			NVIDIA GeForce GTX 970M
