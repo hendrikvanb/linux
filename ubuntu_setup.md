@@ -1,6 +1,10 @@
 # Installing and setting up Ubuntu 18.04 LTS
 > Dual boot with Windows 10 Professional on separate hard drives
 
+Setup:
+ - Existing Microsoft Windows 10 (10.0) Professional 64-bit installed on 250GB Samsung SSD 850 EVO M.2
+ - New installation of Ubuntu 18.04 LTS on 250GB Samsung SSD 860 EVO M.2
+
 ## System settings
 
 **System Information**
@@ -45,6 +49,9 @@
 
 
 # Installing Ubuntu 18.04 LTS
+
+## Preparatory steps
+
 
 ## Create an installation boot drive
 
@@ -142,6 +149,9 @@ List of extensions to install:
 ## Software setup
 
 ### Work apps
+
+- [Visual Studio Code](https://code.visualstudio.com/docs/setup/linux)
+- [R &  RStudio](https://linuxconfig.org/rstudio-on-ubuntu-18-04-bionic-beaver-linux)
 
 ### Creative apps
 
